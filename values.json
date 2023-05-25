@@ -1,3 +1,5 @@
 {
-  "isAlive": true
+  "isAlive": true,
+  "pluginVersion": 1.0.0,
+  "gptKey": "test"
 }
