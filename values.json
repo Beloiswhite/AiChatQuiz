@@ -1,9 +1,10 @@
 {
   "isAlive": true,
   "pluginVersion": "1.0.0",
-  "gptKeys": [
+  "apiKeys": [
     "key1",
     "key2",
     "key3"
-  ]
+  ],
+  "updateMessage": "AiChatQuiz - successful connection to GitHub!"
 }
