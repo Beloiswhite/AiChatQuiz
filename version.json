@@ -3,6 +3,6 @@
   "apiKeys": [
     "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"
   ],
-  "successMessage": "Successful connection to repository!",
+  "successMessage": "Successful connection to repository! Your id is %%__NONCE__%%",
   "outdatedMessage": "Can't load plugin! Please, update to newer version."
 }
